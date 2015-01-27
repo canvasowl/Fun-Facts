@@ -8,9 +8,13 @@ import java.util.Random;
 public class BackgroundColor {
 
      String[] mColors = {
-             "#178931",
-             "#861458",
-             "#179215"
+             "#41FFB8",
+             "#4191FF",
+             "#8C41FF",
+             "#FF4149",
+             "#FF8C8E",
+             "#8CCFFF",
+             "#9D8181"
      };
 
      public String getColor(){
